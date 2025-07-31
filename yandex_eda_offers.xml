@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2025-07-31T12:00">
+  <shop>
+    <name>Курьер Яндекс Еда</name>
+    <company>Партнёрская программа Яндекс Еда</company>
+    <url>https://reg.eda.yandex.ru/?advertisement_campaign=forms_for_agents&user_invite_code=797534aebf24410199973672c541db35&utm_content=blank</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Работа</category>
+    </categories>
+    <offers>
+
+      <offer id="101" available="true">
+        <url>https://reg.eda.yandex.ru/?advertisement_campaign=forms_for_agents&user_invite_code=797534aebf24410199973672c541db35&utm_content=blank</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Работа курьером Яндекс Еда — быстрый старт</name>
+        <description>Стань курьером Яндекс Еда и начинай зарабатывать уже сегодня. Без опыта, без собеседования, с гибким графиком и ежедневными выплатами.</description>
+      </offer>
+
+      <offer id="102" available="true">
+        <url>https://reg.eda.yandex.ru/?advertisement_campaign=forms_for_agents&user_invite_code=797534aebf24410199973672c541db35&utm_content=blank</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Подработка курьером рядом с домом</name>
+        <description>Зарабатывай в свободное время — работай курьером пешком, на велосипеде или авто. Присоединяйся и получи бонус на старте!</description>
+      </offer>
+
+      <offer id="103" available="true">
+        <url>https://reg.eda.yandex.ru/?advertisement_campaign=forms_for_agents&user_invite_code=797534aebf24410199973672c541db35&utm_content=blank</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Гибкая работа курьером без начальников</name>
+        <description>Полная свобода: сам выбираешь, когда работать и сколько. Получай выплаты каждый день и бонусы за активность.</description>
+      </offer>
+
+    </offers>
+  </shop>
+</yml_catalog>
